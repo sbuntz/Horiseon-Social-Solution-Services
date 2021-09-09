@@ -14,11 +14,7 @@ The puprose of this project is to improve accessibility and functionality of Hor
 ## Deployed HomePage
 Deployed URL: https://sbuntz.github.io/Horiseon-Social-Solution-Services/index.html
 
-<<<<<<< HEAD
-    ![alt text](/assets/images/screenshot.png)
-=======
-    ![](images/Horiseon-Social-Solution-Services.png)
->>>>>>> 6f8ea36fdf6cdeb388a663b3d2b09fd92f50b4e8
+![](images/Horiseon-Social-Solution-Services.png)
 
 <a name="refactor"></a>
 ## Code Refactor Comments
